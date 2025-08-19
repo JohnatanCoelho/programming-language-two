@@ -1,4 +1,4 @@
-package org.example;
+package org.example.test;
 
 public class Carta {
 
@@ -10,26 +10,24 @@ public class Carta {
         this.naipe = naipe;
     }
 
-    //GETs
-    public String getNome() {
+    public String getNome(){
         return nome;
     }
 
-    public String getNaipe() {
+    public String getNaipe(){
         return naipe;
     }
 
-    //SETs
     public void setNome(String nome){
         this.nome = nome;
     }
 
-    public void setNaipe(String naipe) {
+    public void setNaipe(String naipe){
         this.naipe = naipe;
     }
 
-    @Override
     public String toString(){
         return nome + " de " + naipe;
     }
+
 }
