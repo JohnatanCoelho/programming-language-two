@@ -1,7 +1,5 @@
-# Linguagem de Programação II ☕
+# Programming Language II ☕
 
-Exercícios feitos no 3º Semestre serão aplicados nesse repositório.
+The exercises completed in the 3rd semester will be applied to this repository.
 
-**ProjetoBaralho:** Aplicação de simulação de jogo de carta 
-
-***Feito por*** ``Johnatan Souza``
+**ProjectBaralho:** Card game simulation application
